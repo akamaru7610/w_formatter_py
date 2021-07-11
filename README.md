@@ -2,12 +2,19 @@
 
 ## tool
 - [] black
+- [] autoflake
+- [] pre-commit
 
 ## install
-- black
 ```
 pip install black
+pip install autoflake
+pip install pre-commit
 ```
+
+## etc
+- mypy
+- isort
 
 ## ref
 
